@@ -23,3 +23,5 @@ public:
         return maxSize;
     }
 };
+
+// отчёт: https://docs.google.com/document/d/1sgaLsd0HkpGbLN6FfL57t23FoVpuyL6uWdYo_NWpMnw/edit?usp=sharing
